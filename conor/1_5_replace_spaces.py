@@ -1,0 +1,1 @@
+print(input("enter string to replace space with %20").replace(" ", "%20"))
