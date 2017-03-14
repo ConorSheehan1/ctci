@@ -23,6 +23,3 @@ for i in range(20):
 print(l, l.size())
 
 print(remove_duplicates(l))
-
-# while l.size() > 0:
-#     print(l.remove())
