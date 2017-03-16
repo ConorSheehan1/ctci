@@ -1,5 +1,6 @@
-from LinkedList import LinkedList
 from random import randint
+
+from LinkedList import LinkedList
 
 
 class BetterList(LinkedList):

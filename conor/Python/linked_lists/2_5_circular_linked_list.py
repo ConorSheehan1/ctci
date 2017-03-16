@@ -1,5 +1,7 @@
-from LinkedList import LinkedList, Node
 from random import randint
+
+from LinkedList import LinkedList, Node
+
 
 class CircularList(LinkedList):
 

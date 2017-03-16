@@ -1,5 +1,7 @@
-from LinkedList import LinkedList
 from random import randint
+
+from LinkedList import LinkedList
+
 
 def get_value(l):
     ans = 0
